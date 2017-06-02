@@ -5,6 +5,8 @@ Created on Mon May 29 15:27:26 2017
 
 @author: Alexander Wolff
 """
+
+#used in development
 debug = False
 
 
